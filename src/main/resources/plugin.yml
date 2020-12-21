@@ -1,0 +1,13 @@
+name: Verify
+version: ${project.version}
+main: me.thejokerdev.verify.Main
+api-version: 1.16
+prefix: Verify
+authors: [ TheJokerDev ]
+description: Verify plugin. Test#3 for OnlyMC Dev APP
+
+commands:
+  verificar:
+    description: Comando para verificar.
+  verificado:
+    description: Comando para ver si estás verificado.

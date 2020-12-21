@@ -1,0 +1,14 @@
+debug: false
+debug-database: false
+
+
+data:
+  type: SQLite
+  mysql:
+    server: localhost
+    db: VerifyPlugin
+    user: OnlyMC
+    port: 3306
+    password: eslomejor
+    tablename:
+      data: Verify_Data
